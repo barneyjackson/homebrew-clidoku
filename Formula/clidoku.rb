@@ -3,8 +3,8 @@ class Clidoku < Formula
 
   desc "A simple command-line sudoku game"
   homepage "https://github.com/barneyjackson/clidoku"
-  url "https://files.pythonhosted.org/packages/source/c/clidoku/clidoku-0.1.1.tar.gz"
-  sha256 "ad890be46f05bbfe5246f8dbb5388ee1dad98d2b032d396fe9985bdda71a1b19"
+  url "https://files.pythonhosted.org/packages/source/c/clidoku/clidoku-0.1.2.tar.gz"
+  sha256 "d375bccaaaa5542366ab106e57596a09351fb3ed23154294ae9bb6a324c506a6"
   license "BSD-3-Clause"
 
   depends_on "python@3.12"
